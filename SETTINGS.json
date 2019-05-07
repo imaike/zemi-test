@@ -1,0 +1,316 @@
+{
+  "adminData": {
+    "adminTitle": "Mobile Data",
+    "email": "myEmail@gmail.com",
+    "projectName": "myProject",
+    "totalStatements": 30
+  },
+  "preSortData": {
+    "titleText": "Statement Pre-Sort",
+    "nextButtonText": "Next",
+    "totalStatements": 30
+  },
+
+  "sortPageData": {
+    "sortCompleteText": "Sort Complete!",
+    "nextButtonText": "Next",
+    "sortedText": "cards sorted",
+    "columnWidth": 120,
+    "cardHeight": 120,
+    "horiCardMinHeight": 100,
+    "totalStatements": 30,
+    "headerColorsArray": [
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white",
+      "white"
+    ],
+    "columnColorsArray": [
+      "#ffcbcb",
+      "#ffd8d8",
+      "#ffe5e5",
+      "#f5f5f5",
+      "#d6f5d6",
+      "#c1f0c1",
+      "#adebad"
+    ],
+    "sortCharacteristics": {
+      "qSortPattern": [3, 4, 5, 6, 5, 4, 3],
+      "qSortHeaders": ["N3", "N2", "N1", 0, 1, 2, 3],
+      "forcedSorts": true,
+      "qSortHeaderNumbers": ["-3", "-2", "-1", "0", "+1", "+2", "+3"]
+    }
+  },
+  "postSortData": {
+    "titleText": "Post-Sort Comments",
+    "instructionsText": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae tristique eros. Nullam laoreet varius massa ac finibus. Nullam eget lobortis dolor. Praesent enim risus, hendrerit at dui eu, facilisis maximus nibh. Quisque pharetra ante sit amet nulla facilisis, quis faucibus ex mollis. Morbi molestie mi id justo tincidunt dapibus.",
+    "nextButtonText": "Next",
+    "agreeObj": {
+      "agreeText": "Agree",
+      "columnDisplay": ["column4"],
+      "columnDisplay2": ["column3"],
+      "displaySecondColumn": true,
+      "placeholder": "Click here to add comment"
+    },
+    "neutralObj": {
+      "displayNeutralObjects": true,
+      "neutralText": "Neutral",
+      "columnDisplay": ["column0"],
+      "placeholder": "Click here to add comment"
+    },
+    "disagreeObj": {
+      "disagreeText": "Disagree",
+      "columnDisplay": ["columnN4"],
+      "columnDisplay2": ["columnN3"],
+      "displaySecondColumn": true,
+      "placeholder": "Click here to add comment"
+    },
+    "columnWidth": 100,
+    "cardHeight": 120
+  },
+  "submitData": {},
+  "columnStatements": {
+    "vCols": {
+      "columnN4": [],
+      "columnN3": [],
+      "columnN2": [],
+      "columnN1": [],
+      "column0": [],
+      "column1": [],
+      "column2": [],
+      "column3": [],
+      "column4": []
+    },
+    "statementList": [
+      {
+        "id": "s1",
+        "statementNum": 1,
+        "divColor": "notSet",
+        "statement": "1. 高水準の英語力は私のいる環境では価値のあ る特性と見なされている。"
+      },
+      {
+        "id": "s2",
+        "statementNum": 2,
+        "divColor": "notSet",
+        "statement": "2. 私は、英語のコミュニケーション能力を持つこ とは重要だと強く信じている。"
+      },
+      {
+        "id": "s3",
+        "statementNum": 3,
+        "divColor": "notSet",
+        "statement": "3. 私は、英語が必須科目なので勉強している。"
+      },
+      {
+        "id": "s4",
+        "statementNum": 4,
+        "divColor": "notSet",
+        "statement": "4. 一生懸命勉強すれば、英語を流暢に話せるようになると思う。"
+      },
+      {
+        "id": "s5",
+        "statementNum": 5,
+        "divColor": "notSet",
+        "statement": "5. 私は、将来字幕なしで英語のテレビ番組や映 画を見れるようになると思う。"
+      },
+      {
+        "id": "s6",
+        "statementNum": 6,
+        "divColor": "notSet",
+        "statement": "6.  私は、将来辞書を使わずに英語で新聞を読め るようになると思う。"
+      },
+      {
+        "id": "s7",
+        "statementNum": 7,
+        "divColor": "notSet",
+        "statement": "7. 私は、将来海外の知人達と英語で気楽に話せ るようになると思う。"
+      },
+      {
+        "id": "s8",
+        "statementNum": 8,
+        "divColor": "notSet",
+        "statement": "8. 私は、将来英語を話せることは社交の場で役 立つと思う。"
+      },
+      {
+        "id": "s9",
+        "statementNum": 9,
+        "divColor": "notSet",
+        "statement": "9. 私は、将来英語を話せることは職場で役立つ と思う。"
+      },
+      {
+        "id": "s10",
+        "statementNum": 10,
+        "divColor": "notSet",
+        "statement": "10. 私は、将来どうのように英語を使用するかにつ いて明確な見通しはない。"
+      },
+      {
+        "id": "s11",
+        "statementNum": 11,
+        "divColor": "notSet",
+        "statement": "11. 私はよく独りで英語を勉強する。"
+      },
+      {
+        "id": "s12",
+        "statementNum": 12,
+        "divColor": "notSet",
+        "statement": "12. 私は英語を学習する理由を明確に理解して いる。"
+      },
+      {
+        "id": "s13",
+        "statementNum": 13,
+        "divColor": "notSet",
+        "statement": "13. 他の人達が英語を話しているのを見ると、会 話に入れない気がする。"
+      },
+      {
+        "id": "s14",
+        "statementNum": 14,
+        "divColor": "notSet",
+        "statement": "14. 私は、普段から外国人と話すことが求められる 仕事をするだろう。"
+      },
+      {
+        "id": "s15",
+        "statementNum": 15,
+        "divColor": "notSet",
+        "statement": "15. 私は、日本人との会話のみを必要とする仕事 をするだろう。"
+      },
+      {
+        "id": "s16",
+        "statementNum": 16,
+        "divColor": "notSet",
+        "statement": "16. 私は仕事のために海外に行くだろう。"
+      },
+      {
+        "id": "s17",
+        "statementNum": 17,
+        "divColor": "notSet",
+        "statement": "17. 私は、外国人と時間を過ごす機会のある仕事 に就くだろう。"
+      },
+      {
+        "id": "s18",
+        "statementNum": 18,
+        "divColor": "notSet",
+        "statement": "18. 私は余暇に海外旅行をするだろう。"
+      },
+      {
+        "id": "s19",
+        "statementNum": 19,
+        "divColor": "notSet",
+        "statement": "19. 私は英語を趣味として勉強するだろう。"
+      },
+      {
+        "id": "s20",
+        "statementNum": 20,
+        "divColor": "notSet",
+        "statement": "20. 私は、将来英語をそもそも使用するとは思わ ない。"
+      },
+      {
+        "id": "s21",
+        "statementNum": 21,
+        "divColor": "notSet",
+        "statement": "21. 私は、他国の文化を学ぶことにあまり興味は ない。"
+      },
+      {
+        "id": "s22",
+        "statementNum": 22,
+        "divColor": "notSet",
+        "statement": "22. 私は、将来自分が海外に知人を持つとは考え られない。"
+      },
+      {
+        "id": "s23",
+        "statementNum": 23,
+        "divColor": "notSet",
+        "statement": "23. 将来、私は英語を決して使用することはない だろう。"
+      },
+      {
+        "id": "s24",
+        "statementNum": 24,
+        "divColor": "notSet",
+        "statement": "24. 私は、英語の授業以外で英語を使用する機会 を持ったことはあまりない。"
+      },
+      {
+        "id": "s25",
+        "statementNum": 25,
+        "divColor": "notSet",
+        "statement": "25. 私は、卒業後は何を専門的に仕事にするか分からない。"
+      },
+      {
+        "id": "s26",
+        "statementNum": 26,
+        "divColor": "notSet",
+        "statement": "26. 私は、将来海外に住んでみたい。"
+      },
+      {
+        "id": "s27",
+        "statementNum": 27,
+        "divColor": "notSet",
+        "statement": "27. 私は、将来の仕事について考える時はいつも、 英語を使用している自分の姿を想像する。"
+      },
+      {
+        "id": "s28",
+        "statementNum": 28,
+        "divColor": "notSet",
+        "statement": "28. 私は、将来英語を有効活用することができる だろう。"
+      },
+      {
+        "id": "s29",
+        "statementNum": 29,
+        "divColor": "notSet",
+        "statement": "29. 私は、自分の意見を英語で表現できるように なりたい。"
+      },
+      {
+        "id": "s30",
+        "statementNum": 30,
+        "divColor": "notSet",
+        "statement": "30.  私のいる環境（社会）では英語に堪能な人々は 尊敬される。"
+      }
+    ]
+  },
+  "surveyData": {
+    "title": "Post Sort Survey",
+    "nextButtonText": "Next",
+    "commentArrays": ["column4", "column3", "columnN4", "columnN3", "column0"],
+    "pages": [
+      {
+        "name": "page 1b",
+        "elements": [
+          {
+            "type": "radiogroup",
+            "name": "question2",
+            "choices": ["my choice 1", "my choice 2", "my choice 3"]
+          },
+          {
+            "type": "comment",
+            "name": "question3"
+          },
+
+          {
+            "type": "text",
+            "name": "question4"
+          },
+          {
+            "type": "dropdown",
+            "name": "question1",
+            "title": "question1 to ansewr is this",
+            "choices": [
+              {
+                "value": "item1",
+                "text": "choice 1"
+              },
+              {
+                "value": "item2",
+                "text": "choice 2"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "showPrevButton": false,
+    "showCompletedPage": false,
+    "pageNextText": "Submit All Results"
+  }
+}
